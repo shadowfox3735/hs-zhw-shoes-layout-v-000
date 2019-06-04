@@ -29,15 +29,6 @@
   
 }
 
-.row:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
-}
-
 [class*="col-"] {
   margin-left: 2%;
 }
@@ -50,3 +41,4 @@
   clear: both;
   margin-bottom: 2%;
 }
+
