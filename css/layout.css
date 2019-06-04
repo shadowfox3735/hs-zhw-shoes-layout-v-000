@@ -42,6 +42,10 @@
   margin-left: 0%;
 }
 
+.last {
+  margin-right: 0%
+}
+
 .row {
   clear: both;
   margin-bottom: 2%;
