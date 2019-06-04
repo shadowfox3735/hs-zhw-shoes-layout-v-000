@@ -34,7 +34,7 @@
   width: 32%;
 }
 
-.clearfix:after {
+.row:after {
   content: ".";
   display: block;
   clear: both;
